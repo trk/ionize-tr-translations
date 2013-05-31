@@ -9,3 +9,5 @@
 ### İçeridiği Çeviriler
 * Yönetim paneli
 * Yükleyici
+* Modüller
+ * Demo Module (Örnek Modül)
