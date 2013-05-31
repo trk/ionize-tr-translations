@@ -63,7 +63,7 @@ $lang['database_username'] = 'Kullanıcı Adı';
 $lang['database_password'] = 'Şifre';
 $lang['database_create'] = 'Veritabanını Oluştur';
 $lang['title_database_create'] = 'Veritabanı Oluşturma';
-$lang['db_create_text'] = 			"<b class="highlight">Yeni Yükleme</b> : Veritabanı ve Tablolar Oluşturulacak<br/><b class="highlight2">Yükseltme</b> : Sonraki Adım Güncellemeye İhtiyaç Olup Olmadığını Kontrol Edecek<br/>";
+$lang['db_create_text'] = 			'<b class="highlight">Yeni Yükleme</b> : Veritabanı ve Tablolar Oluşturulacak<br/><b class="highlight2">Yükseltme</b> : Sonraki Adım Güncellemeye İhtiyaç Olup Olmadığını Kontrol Edecek<br/>';
 $lang['db_create_prerequisite'] = 			"Kullanıcının Veritabanı Oluşturma Hakkının Olması Lazım.<br/>Eğer Veritabanınız Var İse, Kontrol Etmenize Gerek Yok.";
 
 
