@@ -47,8 +47,8 @@ $lang['ionize_dashboard_title_last_modified_articles'] = 'Son Güncellenen Makal
 $lang['ionize_dashboard_title_last_connected_users'] = 'Son Bağlanan Kullanıcılar';
 $lang['ionize_dashboard_title_current_connected_users'] = 'Şu anda bağlı kullanıcılar';
 $lang['ionize_dashboard_title_last_registered_users'] = 'Son Kayıt Olan Kullanıcılar';
-$lang['ionize_dashboard_title_orphan_pages'] = 'Orphan Sayfaları';
-$lang['ionize_dashboard_title_orphan_articles'] = 'Yetim makaleler';
+$lang['ionize_dashboard_title_orphan_pages'] = 'Yetim Sayfalar';
+$lang['ionize_dashboard_title_orphan_articles'] = 'Yetim Makaleler';
 $lang['ionize_dashboard_title_users'] = 'Kullanıcılar';
 $lang['ionize_dashboard_title_content'] = 'İçerik';
 $lang['ionize_dashboard_title_visits'] = 'Ziyaretler';
@@ -59,7 +59,7 @@ $lang['ionize_dashboard_title_visits'] = 'Ziyaretler';
 */
 $lang['ionize_structure_main_menu'] = 'Ana Menü';
 $lang['ionize_structure_system_menu'] = 'Sistem içeriği';
-$lang['ionize_button_toggle_header'] = 'Çubuk başlığı';
+$lang['ionize_button_toggle_header'] = 'Başlık Çubuğu';
 /*
 |--------------------------------------------------------------------------
 | Yönetici Navigasyon Menüsü
@@ -837,8 +837,8 @@ $lang['ionize_label_new_category'] = 'Kategori Oluştur';
 $lang['ionize_label_comment_allow'] = 'İzin Ver';
 $lang['ionize_label_comment_autovalid'] = 'Otomatik Doğrulama';
 $lang['ionize_label_comment_expire'] = 'Tarih Limiti';
-$lang['ionize_label_tags'] = 'Anahtar Kelimeler';
-$lang['ionize_label_existing_tags'] = 'Var Olan Anahtar Kelimeler';
+$lang['ionize_label_tags'] = 'Etiketler';
+$lang['ionize_label_existing_tags'] = 'Var Olan Etiketler';
 $lang['ionize_label_ordering_first'] = 'ilk';
 $lang['ionize_label_ordering_last'] = 'son';
 $lang['ionize_label_ordering_after'] = 'sonra...';
