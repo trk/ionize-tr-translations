@@ -1049,12 +1049,12 @@ $lang['ionize_message_nb_media_cleaned'] = ' medyalar temizlendi';
 $lang['ionize_message_no_broken_media_links'] = 'Kırık medya bağlantısı bulunamadı';
 $lang['ionize_message_thumbs_deleted'] = 'Küçük resimler silindi';
 
-$lang['ionize_label_square_crop_area'] = 'Kare kesim alanı';
+$lang['ionize_label_square_crop_area'] = 'Kare Kırpma Alanı';
 $lang['ionize_label_top_left'] = 'üst-sol';
 $lang['ionize_label_middle'] = 'orta';
 $lang['ionize_label_bottom_right'] = 'alt-sağ';
-$lang['ionize_label_start_crop'] = 'Kesmeyi Başlat';
-$lang['ionize_help_start_crop'] = 'Kare yada adaptif resim için, görüntülenecek alan belirleyin';
+$lang['ionize_label_start_crop'] = 'Kırpmayı Başlat';
+$lang['ionize_help_start_crop'] = 'Kare yada adaptif görsel için, görüntülenecek alanı belirleyin';
 /*
 |--------------------------------------------------------------------------
 | Yönetim : Yardım /  Hakkında
@@ -1113,11 +1113,11 @@ $lang['ionize_help_denied_action_403'] = 'Sayfa menüde. Çıktı : 403, yasak i
 $lang['ionize_help_denied_action_404'] = 'Sayfa menüde değil. Çıktı : 404, sayfa bulunamadı';
 
 
-$lang['ionize_message_role_no_save_level_too_high'] = 'Rol kayıt edilemedi : Seviye sizin seviyenizden küçük yada olmalıdır';
+$lang['ionize_message_role_no_save_level_too_high'] = 'Rol kayıt edilemedi : Rol seviyesi sizin seviyenizden küçük olmalıdır';
 $lang['ionize_message_role_no_delete_users_linked'] = 'Rol silinemedi : Kullanıcılar ile bağlantısı bulunuyor !';
 $lang['ionize_help_email_can_be_used_as_login'] = 'E-posta adresi aynı zamanda giriş yapmak için de kullanılabilir';
 $lang['ionize_help_password_change'] = "Eğer parolanızı değiştirmek istemiyorsanız, parola bölümünü boş bırakın.";
-$lang['ionize_message_email_already_registered'] = "Bu e-posta adresi veri tabanımızda mevcut.";
+$lang['ionize_message_email_already_registered'] = "Bu E-posta veritabanında zaten var";
 
 
 $lang['ionize_menu_tags'] = "Etiketler";
@@ -1129,7 +1129,7 @@ $lang['ionize_help_tag_textbox'] = "etiketi buraya yazın";
 
 
 $lang['ionize_help_orphan_pages'] = "Bu sayfalar herhangi bir ana (sayfa) ile bağlantı kurulmamış.<br/>Bu sayfanın ana(sayfa)\'sı silindiğinde gerçekleşir.";
-$lang['ionize_help_orphan_articles'] = "Bu makaleler herhangibir sayfa ile bağlantı kurulmamış.<br/>Makaleyi tekrar bir sayfaya bağlamak için, ağaç menüde taşı've'bırak yöntemi ile makaleyi taşıyarak bir sayfa üzerine bırakabilirsiniz.";
+$lang['ionize_help_orphan_articles'] = "Bu makaleler herhangi bir sayfa ile bağlantı kurulmamış.<br/>Makaleyi tekrar bir sayfaya bağlamak için, soldaki açılır menüde taşı ve bırak yöntemi ile makaleyi taşıyarak bir sayfa üzerine bırakabilirsiniz.";
 
 
 $lang['ionize_ga_pageviews'] = 'Sayfa Görünümleri';
