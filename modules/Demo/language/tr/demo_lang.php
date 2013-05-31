@@ -17,7 +17,7 @@ $lang['module_demo_window_title'] = "Modal Pencere Başlığı";
 $lang['module_demo_title_edit_author'] = "Yazarı Düzenle";
 $lang['module_demo_label_gender'] = "Cinsiyet";
 $lang['module_demo_label_male'] = "Erkek";
-$lang['module_demo_label_female'] = "Dişi";
+$lang['module_demo_label_female'] = "Kadın";
 
 $lang['module_demo_button_create_author'] = "Yazar Oluştur";
 $lang['module_demo_label_new_author'] = "Yeni Yazar";
